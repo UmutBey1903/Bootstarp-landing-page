@@ -1,0 +1,10 @@
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+.card:hover{
+    cursor: pointer;
+   box-shadow: 0 0 15px black;
+}
